@@ -1,0 +1,15 @@
+#img {
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+#detail-form{
+    position: relative;
+}
+#detail-form > *{
+    position: absolute;
+}
+#detail-form > .detail-input{
+    width: 300px;
+}

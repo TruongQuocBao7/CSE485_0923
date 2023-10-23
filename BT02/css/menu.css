@@ -1,0 +1,28 @@
+.list-group>li>a{
+    text-decoration: none;
+    
+    color: black;
+}
+.list-group>li{
+    text-align: center;
+}
+.list-group>li>a:hover{
+    color: orangered;
+    
+}
+input{
+    padding:5px 5px 5px 10px;
+    border-radius: 5px;
+}
+.table-action *{
+    color: rgb(87, 87, 249);
+}
+.table-action *:hover{
+    color: rgb(0, 0, 255);
+}
+
+#add> *{
+    color: white;
+    text-decoration: none;
+    
+}
