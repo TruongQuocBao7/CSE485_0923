@@ -1,0 +1,79 @@
+.form-control {
+    font-size: 0.9rem;
+}
+
+.btn {
+    --bs-btn-font-size: 0.9rem;
+    margin-left: 0.6rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+span {
+    font-weight: 700;
+    font-size: 0.9rem;
+    margin-left: 0.6rem;
+}
+
+.row>a {
+    width: 20%;
+    height: 50%;
+}
+
+.row>div {
+    width: 50%;
+}
+
+.row>form {
+    width: 50%;
+}
+
+h5 {
+    margin-left: 0.6rem;
+}
+
+p {
+    font-size: 0.9rem;
+}
+
+.login {
+    background-color: rgb(131, 131, 131);
+}
+
+.icon {
+    height: 3rem;
+    width: 3rem;
+}
+
+.d-icon {
+    position: relative;
+    top: -1.5rem;
+}
+
+span.input-group-text {
+    margin: 0;
+}
+
+.mess {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.sign_in {
+    padding-bottom: 4rem!important;
+}
+
+i::before {
+    font-size: 1.5rem;
+}
+
+.logo {
+    width: 40rem;
+}
+
+h3 {
+    font-weight: 400;
+    display: inline;
+}
